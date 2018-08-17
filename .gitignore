@@ -1,0 +1,4 @@
+dask-worker.o*
+dask-worker.e*
+.ipynb_checkpoints
+dask-worker-space
